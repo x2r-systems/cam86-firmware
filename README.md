@@ -1,6 +1,8 @@
 # cam86 firmware for Arduino IDE
 Custom firmware for CAM86 DIY camera (Sony ICX453AQ sensor).
 
+Edited to compile with Arduino IDE. Cooling logic has been removed whilst testing.
+
 This project is based on work of Ukrainian telescope amateurs.
 Most of their work is shared on this huge [forum thread](http://www.astroclub.kiev.ua/forum/index.php?topic=28929.0).
 
